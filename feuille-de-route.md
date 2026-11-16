@@ -1,6 +1,6 @@
 # Feuille de route : déployer un Datamart CMDB sur Elastic, de la dev à la prod
 
-> Rédigé par Claude. La démarche complète pour mettre en production un Datamart CMDB
+> La démarche complète pour mettre en production un Datamart CMDB
 > (type Galaxie : CMDB sur Oracle Exadata, ServiceNow, ITAM) : les environnements, le dépôt,
 > la chaîne de promotion, les phases avec leurs livrables, le détail de chaque brique
 > (mappings, Kafka, Logstash, Kibana, sécurité) et la liste de contrôle du passage en
